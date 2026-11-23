@@ -63,3 +63,10 @@ Toàn bộ từ vựng, câu, hội thoại, truyện và bài hát được vi�
 
 ## Lưu tiến độ
 Lưu trong `localStorage` của trình duyệt (không tài khoản). Sao lưu/khôi phục bằng file JSON ở Parent Corner.
+
+
+## v3: Meet the World
+- Works in the browser: 30 topics, Speak-Check-Improve, Listen-Think-Speak, Vocabulary Universe, 12-area home, YouTube search links (Parent Corner -> Video).
+- Needs a server you run: AI Foreign Friends (see server/README.md).
+- Not available: real foreign teachers and video calls ("Coming soon").
+- Voice: the app ranks en-US natural voices first. Best free result: open in Microsoft Edge ("Microsoft Aria/Jenny Online (Natural)").
